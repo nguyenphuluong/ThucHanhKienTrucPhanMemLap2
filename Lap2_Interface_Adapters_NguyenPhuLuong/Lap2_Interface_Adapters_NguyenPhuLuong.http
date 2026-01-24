@@ -1,0 +1,6 @@
+@Lap2_Interface_Adapters_NguyenPhuLuong_HostAddress = http://localhost:5056
+
+GET {{Lap2_Interface_Adapters_NguyenPhuLuong_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

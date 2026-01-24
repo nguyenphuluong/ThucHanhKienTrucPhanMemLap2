@@ -150,3 +150,5 @@ C:\Users\nguye\source\repos\ProductManagement\Lap2_Interface_Adapters_NguyenPhuL
 C:\Users\nguye\source\repos\ProductManagement\Lap2_Interface_Adapters_NguyenPhuLuong\obj\Debug\net8.0\Interface_Adapters.pdb
 C:\Users\nguye\source\repos\ProductManagement\Lap2_Interface_Adapters_NguyenPhuLuong\obj\Debug\net8.0\Interface_Adapters.genruntimeconfig.cache
 C:\Users\nguye\source\repos\ProductManagement\Lap2_Interface_Adapters_NguyenPhuLuong\obj\Debug\net8.0\ref\Interface_Adapters.dll
+C:\Users\nguye\source\repos\ProductManagement\Lap2_Interface_Adapters_NguyenPhuLuong\obj\Debug\net8.0\Interface_Adapters.sourcelink.json
+C:\Users\nguye\source\repos\ProductManagement\Lap2_Interface_Adapters_NguyenPhuLuong\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

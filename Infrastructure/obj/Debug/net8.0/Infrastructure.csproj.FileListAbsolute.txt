@@ -17,3 +17,4 @@ C:\Users\nguye\source\repos\ProductManagement\Infrastructure\obj\Debug\net8.0\re
 C:\Users\nguye\source\repos\ProductManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
 C:\Users\nguye\source\repos\ProductManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
 C:\Users\nguye\source\repos\ProductManagement\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\nguye\source\repos\ProductManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
